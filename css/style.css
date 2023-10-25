@@ -189,7 +189,7 @@ div#word-mark h1 a {
 .nav-honey li a {
     background: none;
     display: block;
-    color: #fff;
+    color: cadetblue;
     font-size: 0.9em;
     font-weight: 400;
     line-height: 28px;
@@ -201,7 +201,7 @@ div#word-mark h1 a {
 #menu-toggle {
     width: 55px;
     height: 55px;
-    background: #fff;
+    background: #082b12;
     display: -webkit-box;
     display: -ms-flexbox;
     display: flex;
@@ -264,7 +264,7 @@ div#word-mark h1 a {
 
 /*-- /header --*/
 .tanphat_section {
-    background: url(../images/hac.jpg) no-repeat 0px 0px;
+    background: url(../images/xzy.png) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
     -moz-background-size: cover;
@@ -320,12 +320,12 @@ a.btn.work.active {
 .tanphat-info h6 {
     margin: 0.5em 0;
     font-size: 0.9em;
-    color: #ffd900;
+    color: #030605;
 }
 
 .tanphat h5 {
     font-size: 1.4em;
-    color: #fff;
+    color: #030605;
 }
 
 .tanphat a {
@@ -345,7 +345,7 @@ a.btn.work.active {
     overflow: hidden;
     max-width: 10em;
     white-space: nowrap;
-    color: #fff;
+    color: #030605;
     animation: loading 8s linear;
 }
 
@@ -639,7 +639,7 @@ p.quia {
 }
 
 .education-txt {
-    padding-left: 60px;
+    padding-left: 40px;
 }
 
 /*--/testimonials--*/
