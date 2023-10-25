@@ -263,7 +263,7 @@ div#word-mark h1 a {
 /*--/banner--*/
 
 /*-- /header --*/
-.tanphat {
+.tanphat_section {
     background: url(../images/hac.jpg) no-repeat 0px 0px;
     background-size: cover;
     -webkit-background-size: cover;
@@ -281,17 +281,7 @@ div#word-mark h1 a {
     left: 3%;
 }
 
-/*.banner_section {
-    background: url(https://res.cloudinary.com/dqnsplymn/image/upload/v1687775523/uvuaepifhykfmfdvhizq.jpg);
-    height: 50vw;
-    z-index: 0;
-}*/
-/*
-.banner-info {
-    position: absolute;
-    top: 40%;
-    left: 3%;
-}*/
+
 
 a.btn.work {
     padding: 0.6em 2em;
@@ -313,7 +303,7 @@ a.btn.work.active {
     color: #000;
 }
 
-#btn-work {
+.btn-work {
     background: lightpink;
     color: #000;
     padding: 0.6em 2em;
