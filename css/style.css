@@ -67,7 +67,7 @@ ul {
 
 /*--/header --*/
 
-header.banner_section {
+header.tanphat_section {
     width: 100vw;
     height: 100vh;
     display: -webkit-box;
@@ -1168,11 +1168,11 @@ ul.social-icons li a:hover {
 }
 
 @media(max-width:1080px) {
-    .banner-info h5 {
+    .tanphat-info h5 {
         font-size: 1em;
     }
 
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 3em;
     }
 
@@ -1430,7 +1430,7 @@ ul.social-icons li a:hover {
         padding: 1em 3em;
     }
 
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 2.5em;
     }
 
@@ -1547,17 +1547,17 @@ ul.social-icons li a:hover {
         height: 59vw;
     }
 
-    .banner-info h5,
-    .banner-info h6 {
+    .tanphat-info h5,
+    .tanphat-info h6 {
         margin: 0.5em 0;
         font-size: 0.7em;
     }
 
-    .banner-info h5 {
+    .tanphat-info h5 {
         font-size: 0.9em;
     }
 
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 2.2em;
     }
 }
@@ -1567,7 +1567,7 @@ ul.social-icons li a:hover {
         font-size: 2em;
     }
 
-    .banner_section {
+    .tanphat_section {
         height: 55vw;
     }
 
@@ -1599,7 +1599,7 @@ ul.social-icons li a:hover {
 }
 
 @media(max-width:568px) {
-    .banner_section {
+    .tanphat_section {
         height: 55vw;
     }
 
@@ -1668,16 +1668,16 @@ ul.social-icons li a:hover {
 }
 
 @media(max-width:480px) {
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 2em;
     }
 
-    .banner-info h5,
-    .banner-info h6 {
+    .tanphat-info h5,
+    .tanphat-info h6 {
         font-size: 0.8em;
     }
 
-    .banner-info h5 {
+    .tanphat-info h5 {
         font-size: 0.9em;
     }
 
@@ -1691,7 +1691,7 @@ ul.social-icons li a:hover {
         width: 42%;
     }
 
-    .banner_section {
+    .tanphat_section {
         height: 68vw;
     }
 
@@ -1716,11 +1716,11 @@ ul.social-icons li a:hover {
         width: 48%;
     }
 
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 1.8em;
     }
 
-    .banner-info {
+    .tanphat-info {
         position: absolute;
         top: 37%;
         left: 3%;
@@ -1803,7 +1803,7 @@ ul.social-icons li a:hover {
         height: 210vw;
     }
 
-    .banner_section {
+    .tanphat_section {
         height: 74vw;
     }
 
@@ -1813,7 +1813,7 @@ ul.social-icons li a:hover {
 }
 
 @media(max-width:320px) {
-    .banner-info h3 {
+    .tanphat-info h3 {
         font-size: 1.5em;
     }
 
@@ -1837,7 +1837,7 @@ ul.social-icons li a:hover {
         height: 105vw;
     }
 
-    .banner_section {
+    .tanphat_section {
         height: 87vw;
     }
 
