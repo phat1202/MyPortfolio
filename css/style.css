@@ -805,7 +805,7 @@ p.sub {
     background: none;
 }
 
-.contact_grid_right input[type="submit"] {
+.contact_grid_right button[type="submit"] {
     outline: none;
     padding: 1.2em 3em;
     font-size: 14px;
